@@ -2,4 +2,7 @@
 name = jPlayer
 description = Provides stylable audio player.
 core = 7.x
+
 dependencies[] = file
+
+files[] = theme/jplayer.theme.inc
